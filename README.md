@@ -1,6 +1,6 @@
 # MPU6050 Sensor 
 
-This project demonstrates how to interface the MPU6050 sensor with an ESP32 microcontroller using the I2C protocol. The code initializes the MPU6050, reads data from its accelerometer and gyroscope, and logs the results using the ESP-IDF framework.
+This project demonstrates how to interface the MPU6050 sensor with an ESP32 microcontroller using the I2C protocol. The Code initializes the MPU6050, reads data from its Accelerometer and Gyroscope, and logs the results using the ESP-IDF framework.
 
 ## Table of Contents
 - [Introduction](#introduction)
