@@ -29,7 +29,7 @@ The MPU6050 is a popular sensor that combines a 3-axis accelerometer and a 3-axi
 ## Software Required
 - [ESP-IDF v4.4.4](https://github.com/espressif/esp-idf) (or compatible version)
 - [VS Code with ESP-IDF Plugin](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension) (optional)
-- Serial Monitor (e.g., minicom, putty, or Arduino IDE)
+- Serial Monitor (ESP-IDF Framework)
 
 ## Wiring Diagram
 Here is the wiring configuration:
