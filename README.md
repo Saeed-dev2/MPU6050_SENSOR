@@ -12,7 +12,7 @@ This project demonstrates how to interface the MPU6050 sensor with an ESP32 micr
 - [Usage](#usage)
 
 ## Introduction
-The MPU6050 is a popular sensor that combines a 3-axis accelerometer and a 3-axis gyroscope. This project illustrates how to set up the MPU6050 with an ESP32 microcontroller to read the sensor data and log it using the ESP-IDF framework.
+The MPU6050 is a popular sensor that combines a 3-axis accelerometer and a 3-axis gyroscope. This project illustrates how to set up the MPU6050 with an ESP32 microcontroller to read the sensor data and log it using the ESP-IDF Framework.
 
 ## Features
 - I2C communication with MPU6050 sensor.
