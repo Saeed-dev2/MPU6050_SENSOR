@@ -24,7 +24,7 @@ The MPU6050 is a popular sensor that combines a 3-axis accelerometer and a 3-axi
 - ESP32 Development Board
 - MPU6050 Sensor Module
 - Jumper Wires
-- Breadboard (optional)
+- Breadboard 
 
 ## Software Required
 - [ESP-IDF v4.4.4](https://github.com/espressif/esp-idf) (or compatible version)
